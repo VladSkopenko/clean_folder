@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="my_clean_folder",
+    name="clean_folder",
     version="1.1.0",
     description="A tool for cleaning folders",
     url="https://github.com/VladSkopenko/Homework-for-mentor",
